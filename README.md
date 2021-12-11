@@ -1,4 +1,4 @@
-# Movies-Recommernder-System
+# Movies-Recommender-System
 Created content based movies recommendation system. Data cleaning and steaming for creating features and use scikit-learnlibrary for vectorization and cosine-similarity to build model
 
 
